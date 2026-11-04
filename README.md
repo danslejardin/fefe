@@ -21,6 +21,14 @@ Its first poster features a mantis shrimp, dressed in vermilion and cream, inspi
 Made from Felix’s handwriting, a mother’s eye, and a long conversation with AI.
 
 
+## The first poster: Squille.
+
+![Squille. - féfe mantis shrimp poster in vermilion and cream](fefe-mantis-shrimp-poster.png)
+
+[View the poster](fefe-mantis-shrimp-poster.png) · [Explore the editable design in Figma](https://www.figma.com/design/sraqcdBR9NNAONBbIBcl8A/Font-Fefe?node-id=11-31)
+
+Illustration after Tinker, adapted from the supplied natural-history illustration.
+
 ## The typeface
 
 ![féfe in three weights](fefe-specimen.png)
